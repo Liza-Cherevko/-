@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "sass": "^1.55.0"
+  },
+  "name": "firstpr",
+  "version": "1.0.0",
+  "description": "Liza app",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "javascript"
+  ],
+  "author": "Liza <cherevkoelp@gmail.com>",
+  "license": "ISC"
+}
